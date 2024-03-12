@@ -39,7 +39,7 @@ with st.sidebar:
     )
 
     # Logo Image
-    st.image("gcl.png")
+    st.image("dashboard/gcl.png")
 
     # Centered title
     st.markdown("<h2 style='text-align: center;'>Select Date Range</h2>", unsafe_allow_html=True)
