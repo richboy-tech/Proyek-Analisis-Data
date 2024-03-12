@@ -12,3 +12,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run project.py
 ```
 
+Atau bisa dengan kunjungi website ini [Project Data Analytics]([https://dicoding-tjan2lwsgz3l97a447szqk.streamlit.app/](https://heroesneverdie.streamlit.app/))
+
+   <img src="./dashboard/ss.png" alt="Streamlit logo"></img>
